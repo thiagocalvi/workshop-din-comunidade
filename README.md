@@ -13,4 +13,4 @@ Este repositório contém os códigos desenvolvidos durante os dias do workshop,
 
 ## Licença
 
-Este material é disponibilizado sob a licença **MIT**. Você pode copiar, modificar e distribuir o conteúdo deste repositório, desde que mantenha o aviso de copyright e os direitos autorais. Para mais detalhes, consulte o arquivo [LICENSE](link_para_arquivo_license).
+Este material é disponibilizado sob a licença **MIT**. Você pode copiar, modificar e distribuir o conteúdo deste repositório, desde que mantenha o aviso de copyright e os direitos autorais. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
