@@ -3,7 +3,7 @@
 O **Workshop: Introdução ao Git/GitHub e Linguagem C** foi desenvolvido como parte da disciplina *Dinâmica na Comunidade*, oferecida no curso de Ciência da Computação da **Universidade Estadual de Maringá (UEM)**.
 
 Os envolvidos no desenvolvimento e os ministrantes do workshop são os seguintes:
-- [Alexandre Tonet Herman](link_github)
+- [Alexandre Tonet Herman](https://github.com/atherman2)
 - [Guilherme José Monteiro Meirelles](link_github)
 - [Jean Massumi Tamura Aoyagui](link_github)
 - [Matheus Foltran Consonni](link_github)
