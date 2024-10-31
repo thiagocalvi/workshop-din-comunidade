@@ -5,9 +5,9 @@ O **Workshop: Introdução ao Git/GitHub e Linguagem C** foi desenvolvido como p
 Os envolvidos no desenvolvimento e os ministrantes do workshop são os seguintes:
 
 - [Alexandre Tonet Herman](https://github.com/atherman2)
-- [Guilherme José Monteiro Meirelles](link_github)
-- [Jean Massumi Tamura Aoyagui](link_github)
-- [Matheus Foltran Consonni](link_github)
+- [Guilherme José Monteiro Meirelles](https://github.com/Guilherme-Meirelles)
+- [Jean Massumi Tamura Aoyagui](https://github.com/Jean-Massumi)
+- [Matheus Foltran Consonni](https://github.com/MatheusFoltran)
 - [Thiago Henrique Calvi](https://github.com/thiagocalvi)
 
 Este repositório contém os códigos desenvolvidos durante os dias do workshop, bem como os slides utilizados e uma apostila de apoio que foi criada e usada como base na formulação do plano de ensino deste workshop.
