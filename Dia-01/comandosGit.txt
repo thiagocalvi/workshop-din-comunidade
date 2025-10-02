@@ -1,0 +1,32 @@
+Configuração inicial do Git
+	- Configurar usuario e email
+		> git config --global user.name
+		> git config --global user.email
+	
+	- Configuração do SSH
+		- Verificar se existe uma chave SSH
+			> ls -al ~/.ssh
+			*verifica se existe os arquivos id_rsa.pub ou id_ed25519.pub*
+		- Gerar uma chave SSH se não existir uma
+			> ssh-keygen -t ed25519 -C "seu@email.com"
+			- Se o sistema não suportar use rsa 
+			> ssh-keygen -t rsa -b 4096 -C "seu@email.com"
+		- Iniciar o ssh-agent
+			> Linux/MacOs: eval"$(ssh-agent -s)"
+			> Windows: eval$(ssh-agent-s)
+		- Adicionar a chave ao ssh-agent
+			> ssh-add ~/.ssh/id_ed25519
+			- Ou para rsa
+			> ssh-add ~/.ssh/id_rsa
+		- Copiar a chave para a area de transferencia
+		- Adicionar chave no GitHub
+		- Testar conexão
+			> ssh -T git@github.com
+			
+	- Personal Access Token (PAT)
+		- Armazenar o token na memoria cache do git
+			> git config --global credential.helper cache
+		
+		- PAT para um repositório especifico
+			> git clone https://<username>:<token>@github.com/<username>/<repository>.git
+			
